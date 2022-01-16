@@ -19,8 +19,8 @@
 			"image": "bamboo-watch.jpg",
 			"category": "Technology",
 			"totalQuestions": 20,
-			"status": "NEW",
-			"rating": 5,
+			"status": "COMING SOON",
+			"rating": 0,
       "questionPath": "js.json",
       "section": "UI"
 		},
