@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "question": "Which of the following is correct about TypeScript?",
+      "options": [
+        "Angular is based on TypeScript.",
+        "This is a superset of JavaScript.",
+        "TypeScript is maintained by Microsoft.",
+        "All of the above."
+      ],
+      "answer": "All of the above."
+    },
+    {
+      "question": "What does AOT stand for?",
+      "options": [
+        "Ahead-Of-Time Compilation",
+        "Angular Object Templates",
+        "Both",
+        "None of above"
+      ],
+      "answer": "Ahead-Of-Time Compilation"
+    }
+  ]
+}
