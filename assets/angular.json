@@ -16,9 +16,87 @@
         "Ahead-Of-Time Compilation",
         "Angular Object Templates",
         "Both",
-        "None of above"
+        "None of the above "
       ],
       "answer": "Ahead-Of-Time Compilation"
+    },
+    {
+      "question": "Which file is responsible for startup of angular project ?",
+      "options": [
+        "main.ts",
+        "index.ts",
+        "app.js",
+        "angular.json"
+      ],
+      "answer": "main.ts"
+    },
+    {
+      "question": "Which character is used for chaining multiple pipes in Angular ?",
+      "options": [
+        ":",
+        "-",
+        "/",
+        "|"
+      ],
+      "answer": "|"
+    },
+    {
+      "question": "Which of the following filter is used to convert input to all uppercase ?",
+      "options": [
+        "upper",
+        "toUpper",
+        "uppercase",
+        "toUpperCase"
+      ],
+      "answer": "uppercase"
+    },
+    {
+      "question": "Which of the following is not a hook in Angular application life cycle ?",
+      "options": [
+        "ngOnChanges",
+        "ngOnInit",
+        "ngAfterViewInit",
+        "ngViewStart"
+      ],
+      "answer": "ngViewStart"
+    },
+    {
+      "question": "Angular does not provide nested components.",
+      "options": [
+        "true",
+        "false"
+      ],
+      "answer": "false"
+    },
+    {
+      "question": "RxJS can be used for ?",
+      "options": [
+        "Client Side",
+        "Server Side",
+        "Both ",
+        "None of the above"
+      ],
+      "answer": "Both "
+    },
+    {
+      "question": "Which of the following service has Angular 2, that allows us to dynamically load a component in a certain position on the page ?",
+      "options": [
+        "DynamicComponentLoader",
+        "DynamicControlLoader",
+        "DynamicControllerLoader",
+        "DynamicControllerLoad"
+      ],
+      "answer": "DynamicComponentLoader"
+    },
+    {
+      "question": "Observables help you manage ___________ data ",
+      "options": [
+        "Synchronous",
+        "Asynchronous",
+        "Both  ",
+        "None of the above."
+      ],
+      "answer": "Asynchronous"
     }
   ]
 }

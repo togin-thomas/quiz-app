@@ -41,6 +41,9 @@ MIT
 @angular/router
 MIT
 
+ngx-countdown
+MIT
+
 primeflex
 MIT
 The MIT License (MIT)
