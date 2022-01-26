@@ -6,7 +6,7 @@
 			"description": "Angular 2+",
 			"image": "bamboo-watch.jpg",
 			"category": "Technology",
-			"totalQuestions": 20,
+			"totalQuestions": 10,
 			"status": "NEW",
 			"rating": 5,
       "questionPath": "angular.json",
@@ -18,10 +18,10 @@
 			"description": "JavaScript",
 			"image": "bamboo-watch.jpg",
 			"category": "Technology",
-			"totalQuestions": 20,
-			"status": "COMING SOON",
-			"rating": 0,
-      "questionPath": "js.json",
+			"totalQuestions": 10,
+			"status": "NEW",
+			"rating": 5,
+      "questionPath": "javascript.json",
       "section": "UI"
 		},
     {
